@@ -3,6 +3,11 @@
     <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task0.V0/Tyuiu.Adzhievrsh.Sprint0.Task0.V0.csproj" Id="a5e04e4f-384b-4088-9800-ff2baf1908a4" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task1.V0/Tyuiu.Adzhievrsh.Sprint0.Task1.V0.csproj" Id="a91d47f2-305d-4520-a09a-b801f8a08fc0" />
+    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task1.V0/Tyuiu.Adzhievrsh.Sprint0.Task1.V0.csproj" Id="d1f5d2a1-0943-4da1-9de0-eaf6ef937c64" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task2.V0.Lib/Tyuiu.Adzhievrsh.Sprint0.Task2.V0.Lib.csproj" Id="2c62f70b-206c-493f-bdb6-e5f6053313b4" />
+    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task2.V0.Test/Tyuiu.Adzhievrsh.Sprint0.Task2.V0.Test.csproj" Id="707f3c99-013e-4eda-971a-5cd9492b0869" />
+    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task2.V0/Tyuiu.Adzhievrsh.Sprint0.Task2.V0.csproj" Id="85066e6c-0a38-4559-84dc-2bcd652d6c53" />
   </Folder>
 </Solution>
