@@ -3,7 +3,7 @@
     <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task0.V0/Tyuiu.Adzhievrsh.Sprint0.Task0.V0.csproj" Id="a5e04e4f-384b-4088-9800-ff2baf1908a4" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task1.V0/Tyuiu.Adzhievrsh.Sprint0.Task1.V0.csproj" Id="d1f5d2a1-0943-4da1-9de0-eaf6ef937c64" />
+    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task1.V0/Tyuiu.Adzhievrsh.Sprint0.Task1.V0.csproj" Id="a91d47f2-305d-4520-a09a-b801f8a08fc0" />
   </Folder>
   <Folder Name="/Task2/">
     <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task2.V0.Lib/Tyuiu.Adzhievrsh.Sprint0.Task2.V0.Lib.csproj" Id="2c62f70b-206c-493f-bdb6-e5f6053313b4" />
@@ -29,5 +29,10 @@
     <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task6.V0.Lib/Tyuiu.Adzhievrsh.Sprint0.Task6.V0.Lib.csproj" Id="6747d8b7-2393-4c04-8885-7b1ebebf0a33" />
     <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task6.V0.Test/Tyuiu.Adzhievrsh.Sprint0.Task6.V0.Test.csproj" Id="12dbe4d7-629c-4ef3-8747-1076346c2d9d" />
     <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task6.V0/Tyuiu.Adzhievrsh.Sprint0.Task6.V0.csproj" Id="095a7f29-0556-44b4-8148-1aadea9d46ce" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task7.V0.Lib/Tyuiu.Adzhievrsh.Sprint0.Task7.V0.Lib.csproj" Id="7da856fe-5488-4a59-954d-5da77b225056" />
+    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task7.V0.Test/Tyuiu.Adzhievrsh.Sprint0.Task7.V0.Test.csproj" Id="17bd9c3c-eb46-49d6-b6d0-641c8cc30d3e" />
+    <Project Path="Tyuiu.Adzhievrsh.Sprint0.Task7.V0/Tyuiu.Adzhievrsh.Sprint0.Task7.V0.csproj" Id="ea1486a4-47a4-413e-a63a-260e2731c256" />
   </Folder>
 </Solution>
